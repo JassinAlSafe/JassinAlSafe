@@ -20,7 +20,7 @@
 - 🎨 **Frontend Developer** from Gothenburg, Sweden  
 - ⚡ Always exploring the latest **web technologies** and coding best practices  
 - 🎮 Passionate about **gaming, sports, music, and coding**—could talk about them for hours!  
-- 🏐 Enjoys staying active with **volleyball** and working out 🏐  
+- 🏐 Enjoys staying active with **volleyball** and working out  
 - 🍳 Loves cooking and staying on top of **health & fitness**  
 - 💼 Future goal: Launch my own **IT consultancy** and keep doing frontend forever  
 
@@ -41,16 +41,14 @@
 
 ## GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JassinAlSafe&show_icons=true&theme=react" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JassinAlSafe&layout=compact&theme=react" height="180em"/>
 </p>
 
 ## Let’s Connect
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
-- **Website/Portfolio**: [YourWebsite.com](https://yourwebsite.com) *(if you have one)*  
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
-- **Email**: youremail@example.com  
-
+- **LinkedIn**: [Your Profile](www.linkedin.com/in/jassin-al-safe-343939181)  
+- **Website/Portfolio**: [YourWebsite.com](https://jassinalsafe.com) 
+ 
 ---
 
 _Thank you for visiting my profile!_  
