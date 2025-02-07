@@ -46,8 +46,8 @@
 </p>
 
 ## Let’s Connect
-- **LinkedIn**: [Your Profile](www.linkedin.com/in/jassin-al-safe-343939181)  
-- **Website/Portfolio**: [YourWebsite.com](https://jassinalsafe.com) 
+- **LinkedIn**: [JassinAlSafe](www.linkedin.com/in/jassin-al-safe-343939181)  
+- **Website/Portfolio**: [jassinalsafe.com](https://jassinalsafe.com) 
  
 ---
 
