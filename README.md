@@ -22,7 +22,7 @@
 - 🎮 Passionate about **gaming, sports, music, and coding**—could talk about them for hours!  
 - 🏐 Enjoys staying active with **volleyball** and working out  
 - 🍳 Loves cooking and staying on top of **health & fitness**  
-- 💼 Future goal: Launch my own **IT consultancy** and keep doing frontend forever  
+
 
 ## Tech & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
