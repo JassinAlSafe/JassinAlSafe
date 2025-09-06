@@ -113,20 +113,39 @@
 
 ```javascript
 const jassin = {
-    currentlyLearning: ["TypeScript", "Next.js", "Vue.js"],
-    workingOn: "Building a portfolio of innovative web projects",
-    askMeAbout: ["Frontend Development", "Gaming", "Music", "Fitness"],
+    experience: "2+ years",
+    expertise: ["React", "Next.js", "TypeScript", "React Native", "SwiftUI"],
+    currentlyMastering: ["Vue.js", "Advanced TypeScript", "Web3", "Three.js"],
+    workingOn: "Building scalable web & mobile applications",
+    askMeAbout: ["Frontend Development", "Mobile Apps", "Gaming", "Music", "Fitness"],
     funFact: "I believe in writing code that's as clean as my meal prep!",
     goals2025: [
-        "Master TypeScript and modern frameworks",
-        "Contribute to open source projects",
+        "Master Vue.js and Web3 technologies",
+        "Contribute to major open source projects",
         "Launch my IT consultancy",
-        "Build 12 projects in 12 months"
+        "Build enterprise-level applications"
     ]
 };
 ```
 
 </div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+  
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🎨 **Portfolio Website** | Personal portfolio with modern animations | Next.js, TypeScript, Tailwind | [Live](https://jassinalsafe.com) · [Code](https://github.com/JassinAlSafe/portfolio) |
+| 📱 **Mobile App** | Cross-platform mobile solution | React Native, TypeScript | [Code](#) |
+| 🚀 **Web Application** | Full-stack web app with real-time features | Next.js, React, Tailwind | [Live](#) · [Code](#) |
+| 🍎 **iOS App** | Native iOS application | SwiftUI, Swift | [Code](#) |
+
+</div>
+
+> 💡 More projects in my [repositories](https://github.com/JassinAlSafe?tab=repositories). Each demonstrates different aspects of my technical expertise.
 
 ---
 
@@ -167,11 +186,3 @@ const jassin = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
 </div>
-## Let’s Connect
-- **LinkedIn**: [JassinAlSafe](www.linkedin.com/in/jassin-al-safe-343939181)  
-- **Website/Portfolio**: [jassinalsafe.com](https://jassinalsafe.com) 
- 
----
-
-_Thank you for visiting my profile!_  
-*Come say hi, or feel free to check out my repositories below.*
