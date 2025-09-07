@@ -29,7 +29,7 @@
 - 🏠 **Based in:** Gothenburg, Sweden
 - 💼 **Focus:** Building responsive, user-friendly web applications
 - 🎯 **Goal:** Establishing my own consultancy in the IT field
-- 🌱 **Currently Learning:** TypeScript, Next.js, and Vue.js
+- 🌱 **Currently Learning:** SwiftUI & NodeJs
 - ⚡ **Fun fact:** I can talk about gaming, sports, music, and code for hours!
 
 ### Beyond the Code:
