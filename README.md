@@ -49,9 +49,11 @@ Currently exploring: **Vue**, **Node.js**, **MongoDB**, **Three.js**
 ## 🤝 Let’s Connect  
 
 <div align="center">
-  <a href="https://jassinalsafe.com">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/jassinalsafe">💼 LinkedIn</a> ·
-  <a href="mailto:hello@jassinalsafe.com">📧 Email</a>
+  <a href="https://jassinalsafe.com">🌐 Portfolio</a> 
+  <a href="https://zenitdigital.se">🌐 Zenit Digital Studios (Company) </a> 
+  <a href="https://shelfwiseapp.com">🌐 Shelfwise </a> 
+  <a href="https://www.linkedin.com/in/jassin-al-safe-343939181/">💼 LinkedIn</a> ·
+  <a href="mailto:jassinalsafe90@gmail.com">📧 Email</a>
 </div>
   -->
 </div>
