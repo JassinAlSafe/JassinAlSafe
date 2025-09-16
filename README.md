@@ -40,9 +40,8 @@ I craft clean, user-friendly digital experiences that balance great design with 
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🎨 **Portfolio Website** | Personal portfolio with smooth animations | Next.js · TypeScript · Tailwind | [Live](https://jassinalsafe.com) 
-| 📱 **NothingCN** | Component Library | NextJs · TypeScript | [Code](https://github.com/JassinAlSafe/NothingCN) | [Live](https://nothing-cn.vercel.app/)
-
+| 🎨 **Portfolio Website** | Personal portfolio with smooth animations | Next.js · TypeScript · Tailwind | [Live](https://jassinalsafe.com) · [Code](https://github.com/JassinAlSafe/portfolio) |
+| 📱 **NothingCN** | Minimal component library | Next.js · TypeScript | [Live](https://nothing-cn.vercel.app) · [Code](https://github.com/JassinAlSafe/NothingCN) |
 
 ---
 
