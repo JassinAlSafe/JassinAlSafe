@@ -1,12 +1,12 @@
 # Hey, I'm Jassin 👋  
 
-Frontend Developer • Tech Enthusiast • Creative Mind  
+**Frontend Developer • Tech Enthusiast • Creative Mind**  
 
 ---
 
 ## 🚀 About Me  
 
-I love crafting clean, user-friendly digital experiences that blend great design with solid code.  
+I craft clean, user-friendly digital experiences that balance great design with solid code.  
 
 - 📍 Based in **Gothenburg, Sweden**  
 - 💻 Focused on **modern web applications**  
@@ -23,7 +23,7 @@ I love crafting clean, user-friendly digital experiences that blend great design
 
 </div>
 
-Currently exploring: **Vue**, **Node.js**, **MongoDB**, **Three.js**  
+**Currently exploring:** Vue · Node.js · MongoDB · Three.js  
 
 ---
 
@@ -40,26 +40,26 @@ Currently exploring: **Vue**, **Node.js**, **MongoDB**, **Three.js**
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🎨 **Portfolio Website** | Personal portfolio with smooth animations | Next.js, TypeScript, Tailwind | [Live](https://jassinalsafe.com) · [Code](https://github.com/JassinAlSafe/portfolio) |
-| 📱 **Mobile App** | Cross-platform solution | React Native, TypeScript | [Code](#) |
-| 🍎 **iOS App** | Native iOS application | SwiftUI, Swift | [Code](#) |
+| 🎨 **Portfolio Website** | Personal portfolio with smooth animations | Next.js · TypeScript · Tailwind | [Live](https://jassinalsafe.com) · [Code](https://github.com/JassinAlSafe/portfolio) |
+| 📱 **Mobile App** | Cross-platform mobile solution | React Native · TypeScript | [Code](#) |
+| 🍎 **iOS App** | Native iOS application | SwiftUI · Swift | [Code](#) |
 
 ---
 
 ## 🤝 Let’s Connect  
 
 <div align="center">
-  <a href="https://jassinalsafe.com">🌐 Portfolio</a> 
-  <a href="https://zenitdigital.se">🌐 Zenit Digital Studios (Company) </a> 
-  <a href="https://shelfwiseapp.com">🌐 Shelfwise </a> 
-  <a href="https://www.linkedin.com/in/jassin-al-safe-343939181/">💼 LinkedIn</a> ·
-  <a href="mailto:jassinalsafe90@gmail.com">📧 Email</a>
-</div>
-  -->
+
+🌐 [Portfolio](https://jassinalsafe.com) ·  
+🌐 [Zenit Digital Studios](https://zenitdigital.se) ·  
+🌐 [Shelfwise](https://shelfwiseapp.com) ·  
+💼 [LinkedIn](https://www.linkedin.com/in/jassin-al-safe-343939181/) ·  
+📧 [Email](mailto:jassinalsafe90@gmail.com)  
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" width="100%" />
 </div>
