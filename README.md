@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 
-I craft clean, user-friendly digital experiences that balance great design with solid code.  
+I craft code sometimes.... 
 
 - 📍 Based in **Gothenburg, Sweden**  
 - 💻 Focused on **modern web applications**  
