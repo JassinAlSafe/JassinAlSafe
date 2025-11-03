@@ -1,6 +1,6 @@
 # Hey, I'm Jassin 👋  
 
-**Frontend Developer • Tech Enthusiast • Creative Mind**  
+**Fullstack • Tech Enthusiast • Creative Mind**  
 
 ---
 
