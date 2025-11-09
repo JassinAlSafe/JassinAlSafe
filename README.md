@@ -10,8 +10,6 @@ I craft code sometimes....
 
 - 📍 Based in **Gothenburg, Sweden**  
 - 💻 Focused on **modern web applications**  
-- 🌱 Currently exploring **SwiftUI & Node.js**  
-- ⚡ Fun fact: I can talk about gaming, sports, music, and code for hours  
 
 ---
 
