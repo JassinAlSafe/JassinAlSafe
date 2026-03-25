@@ -1,62 +1,27 @@
-# Hey, I'm Jassin 👋  
+# Jassin Al-Safe
 
-**Fullstack Developer • Tech Enthusiast • Creative Mind**  
-
----
-
-## 🚀 About Me  
-
-I craft code sometimes.... 
-
-- 📍 Based in **Gothenburg, Sweden**  
-- 💻 Focused on **modern web applications**  
+Fullstack developer
+Based in Gothenburg
 
 ---
 
-## 🛠️ Tech Stack  
+**Stack**  
+`TypeScript` `Next.js` `React` `Tailwind` `Figma` `Git` `Vue` `Node.js` `Three.js` `MongoDB` `Firebase` `AI-Development`
 
-<div align="center">
-
-![HTML](https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,figma,git,github,vscode,nextjs)
-
-</div>
-
-**Currently exploring:** Vue · Node.js · MongoDB · Three.js  
+Exploring → 
 
 ---
 
-## 📊 GitHub Stats  
+**Projects**
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JassinAlSafe&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JassinAlSafe&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-## 🎯 Featured Projects  
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🎨 **Portfolio Website** | Personal portfolio with smooth animations | Next.js · TypeScript · Tailwind | [Live](https://jassinalsafe.com) · [Code](https://github.com/JassinAlSafe/portfolio) |
-| 📱 **NothingCN** | Minimal component library | Next.js · TypeScript | [Live](https://nothing-cn.vercel.app) · [Code](https://github.com/JassinAlSafe/NothingCN) |
+| | |
+|---|---|
+| **[NothingCN](https://nothing-cn.vercel.app)** | Minimal component library |
+| **[Shelfwise](https://shelfwiseapp.com)** | Inventory Tracking App |
+| **[Portfolio](https://jassinalsafe.com)** | Personal site |
+| **[Zenit Digital](https://zenitdigital.se)** | Design & development studio |
 
 ---
 
-## 🤝 Let’s Connect  
-
-<div align="center">
-
-🌐 [Portfolio](https://jassinalsafe.com) ·  
-🌐 [Zenit Digital Studios](https://zenitdigital.se) ·  
-🌐 [Shelfwise](https://shelfwiseapp.com) ·  
-💼 [LinkedIn](https://www.linkedin.com/in/jassin-al-safe-343939181/) ·  
-📧 [Email](mailto:jassinalsafe90@gmail.com)  
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" width="100%" />
-</div>
+**Find me**  
+[LinkedIn](https://www.linkedin.com/in/jassin-al-safe-343939181/) · [Email](mailto:jassinalsafe@zenitdigital.se) · [jassinalsafe.com](https://jassinalsafe.com)
