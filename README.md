@@ -8,8 +8,6 @@ Based in Gothenburg
 **Stack**  
 `TypeScript` `Next.js` `React` `Tailwind` `Figma` `Git` `Vue` `Node.js` `Three.js` `MongoDB` `Firebase` `AI-Development`
 
-Exploring → 
-
 ---
 
 **Projects**
