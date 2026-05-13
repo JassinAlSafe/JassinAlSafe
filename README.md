@@ -9,16 +9,6 @@ Based in Gothenburg
 `TypeScript` `Next.js` `React` `Tailwind` `Figma` `Git` `Vue` `Node.js` `Three.js` `MongoDB` `Firebase` `AI-Development`
 
 ---
-
-**Projects**
-
-| | |
-|---|---|
-| **[NothingCN](https://nothing-cn.vercel.app)** | Minimal component library |
-| **[Shelfwise](https://shelfwiseapp.com)** | Inventory Tracking App |
-| **[Portfolio](https://jassinalsafe.com)** | Personal site |
-| **[Zenit Digital](https://zenitdigital.se)** | Design & development studio |
-
 ---
 
 **Find me**  
